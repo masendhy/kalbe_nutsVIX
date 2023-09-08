@@ -1,0 +1,8 @@
+
+SELECT * FROM transaction LIMIT 100;
+
+SELECT * FROM product LIMIT 100;
+
+SELECT * FROM store LIMIT 100;
+
+SELECT * FROM customer LIMIT 100;
